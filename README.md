@@ -1,5 +1,4 @@
 # curso_node
-NodeJS
 
 ## :bookmark: Resume
 <br />
